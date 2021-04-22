@@ -1,5 +1,5 @@
 #pragma once
+#include "mysharedlib_global.h"
 
-
-int foo();
+MYSHAREDLIB_EXPORT int foo();
 
